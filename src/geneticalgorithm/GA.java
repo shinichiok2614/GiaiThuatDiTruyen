@@ -1,9 +1,9 @@
-package nguoibanhang;
+package geneticalgorithm;
 
 import java.util.Arrays;
 import java.util.Random;
 
-public class NguoiBanHang {
+public class GA {
 
     public int max = 10000;
     public int khoangcach[][] = {
